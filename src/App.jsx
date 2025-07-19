@@ -121,7 +121,9 @@ export default function App() {
     <div className="level-box">
       <i className="ri-flag-fill level-icon"></i>
       <h3>Level 1</h3>
-      <p>Start by recycling your first item.</p>
+      <p>Start by recycling your first item.<br/>
+      (Bronze Trophy)
+      </p>
     </div>
 
     <div className="connector">
@@ -131,7 +133,9 @@ export default function App() {
     <div className="level-box">
       <i className="ri-flag-fill level-icon"></i>
       <h3>Level 2</h3>
-      <p>Complete 10 items and unlock rewards.</p>
+      <p>Complete 10 items and unlock rewards.
+        <br/>(Silver Trophy)
+      </p>
     </div>
 
     <div className="connector">
